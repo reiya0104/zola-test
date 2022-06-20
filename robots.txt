@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reiya0104.com/sitemap.xml
