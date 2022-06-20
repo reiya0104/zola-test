@@ -14,4 +14,4 @@ jobs:
           # Target branch
           PAGES_BRANCH: gh-pages
           # Provide personal access token
-          TOKEN: ${{ secrets.id_ed25519_20220621 }}
+          TOKEN: ${{ secrets.ZOLA_KEY }}
